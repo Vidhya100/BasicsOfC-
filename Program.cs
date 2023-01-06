@@ -8,6 +8,9 @@ namespace Basics
         {
             BoxingUnBoxing bu = new BoxingUnBoxing();
             bu.Boxing();
+
+            delegates d = new delegates();
+            d.delegatesE();
         }
     }
 }
